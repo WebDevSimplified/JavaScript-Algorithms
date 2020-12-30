@@ -1,5 +1,5 @@
 /* 
-From CodeForces - 
+From CodeForces - Problem
 
 Vasya is very upset that many people on the Net mix uppercase and lowercase letters in one word. 
 
