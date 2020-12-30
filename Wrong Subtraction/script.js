@@ -22,5 +22,3 @@ function WrongSubtraction(n, k) {
 
     return n;
 }
-
-console.log(WrongSubtraction(1000000000,9))
